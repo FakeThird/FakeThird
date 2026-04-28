@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Keith (FakeThird)
 
-<!--
-**FakeThird/FakeThird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A CS student at **University of the Philippines Visayas** · Aspiring Game Designer and Developer · Likes Watching Video Documentaries and Completing Games
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<img width="1500" height="1500" alt="under_construction" src="https://github.com/user-attachments/assets/6e6aafce-ee8b-4e8f-9a49-d3105f8b4bf0" />
 
-Here are some ideas to get you started:
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Life is a game that is hard to get a Platinum.</i>
+  <br>
+  <i>— FakeThird</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=FakeThird&color=478cbf&style=flat" alt="profile views" />
+</p>
