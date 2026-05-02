@@ -1,85 +1,122 @@
 
-# Hello, I'm Keith (FakeThird)
+## ❀ You've reached `Keith Domingo - FakeThird`
 
 > A CS student at **University of the Philippines Visayas** · Aspiring Game Designer and Developer · Likes Watching Video Documentaries and Completing Games
-
 ---
 
+## About Me
+
+- **B.S. Computer Science** at the University of the Philippines Visayas (Ongoing).
+- Trying to learn more Framworks for website deployment.
+- Tinkering with Godot and developing 2D/Pixel games.
+- Reach me at **[kmdomingo1@up.edu.ph]**
+
+---
 ## Tech Stack
 
-**Languages**
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poryscript-8B4513?style=for-the-badge&logoColor=white" />
+</p>
+</details>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=arm&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
-![Poryscript](https://img.shields.io/badge/Poryscript-8B4513?style=flat&logoColor=white)
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+</details>
 
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+</details>
 
-**Frameworks & Libraries**
+<details open>
+<summary><b>Game Development</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" />
+  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphicsGale-444444?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tiled_Map_Studio-4CAF50?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pixilart-FA5B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Libresprite-8B008B?style=for-the-badge&logoColor=white" />
+</p>
+</details>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=openjdk&logoColor=white)
-
-**Game Development**
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat&logo=krita&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
-![GraphicsGale](https://img.shields.io/badge/GraphicsGale-444444?style=flat&logoColor=white)
-![Tiled](https://img.shields.io/badge/Tiled_Map_Studio-4CAF50?style=flat&logoColor=white)
-![Pixilart](https://img.shields.io/badge/Pixilart-FA5B35?style=flat&logoColor=white)
-![Libresprite](https://img.shields.io/badge/Libresprite-8B008B?style=flat&logoColor=white)
-
-**Version Control & Dev Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=linux&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-**IDEs & Editors**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=r&logoColor=white)
-![Geany](https://img.shields.io/badge/Geany-52A049?style=flat&logo=geany&logoColor=white)
-
-**Design & Productivity**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=googledocs&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=flat&logo=googleslides&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000000?style=flat&logo=wix&logoColor=white)
-![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=flat&logo=balsamiq&logoColor=white)
+<details open>
+<summary><b>Design & Productivity</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+</p>
+</details>
 
 ---
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<img width="100%" aspect-ratio="5/4" alt="5LYzTBVoS196gvYvw3zjwJRT6DzVcED8jw0EkYGkLoE (1)" src="https://github.com/user-attachments/assets/f2e663f5-3539-4daa-a5d1-536b9d274cfc" />
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+## Certifications
+
+| certificate | issuer | year |
+|---|---|---|
+| CSS Essentials Completion Certificate | DICT-ITU DTC Initiative | 2025 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+---
+
+## Currently Exploring
+
+- [ ] Godot — Developing Pixel Games for laboratories.
+- [ ] Unity - Self-learning through online lectures.
+- [ ] AWS — Diving into the topic for project dependencies.
+
+---
+
+## Outside the Terminal
+
+A ambiverted person that can give a shoulder to lean on for those that need it, extremely persistent on the most random things, and adapts to most social environments:
+
+- **Game Design** — Where I apply what I learn and challenge myself if a current tech stack can work with a Game.
+- **Media** - Likes to watch anime and read webtoons, has seen/read a lot of media and prefers shows that hits deep.
+- **Games** — Plays on spare time and will always make sure to get all achievements on a game before stopping.
+- **Music** — Listens to a wide variety of music from Game OST to Musicals, usually listens to J-Pop.
+- **Documentaries** — Likes to listen to any kind of video essay about any topic, although prefers player psychology and true crime.
+- **Design** — Has experience in graphic design, video editing/directing, and pixil arts, all of which is mostly used academically.
+- **Board Games** — Always ready for a card game, board games and maybe some DND (haven't played in a while).
+- **Other Hobbies** — Likes watching movies specifically in the cinema, collects official merch (mostly plushies), and does/into theatre or stage play.
+
 ---
 
 <p align="center">
