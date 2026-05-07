@@ -137,15 +137,7 @@
 
 | certificate | issuer | year |
 |---|---|---|
-| CSS Essentials Completion Certificate | DICT-ITU DTC Initiative | 2025 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
----
-
-## Currently Exploring
-
-- [ ] Godot — Developing Pixel Games for laboratories.
-- [ ] Unity - Self-learning through online lectures.
-- [ ] AWS — Diving into the topic for project dependencies.
-
+| [CSS Essentials Completion Certificate](./certs/CSS_Essentials_Domingo.pdf) | DICT-ITU DTC Initiative | 2025 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ---
 
 ## Outside the Terminal
