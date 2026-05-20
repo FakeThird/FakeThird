@@ -10,7 +10,7 @@
 - About to start doing OJT.
 - Trying to learn more Framworks for website deployment.
 - Tinkering with Godot and developing 2D/Pixel games.
-- Reach me at **[kmdomingo1@up.edu.ph]** and **[keithashlydomingo@gmail.com]** 
+- Reach me at **[kmdomingo1@up.edu.ph](kmdomingo1@up.edu.ph)** and **[keithashlydomingo@gmail.com](keithashlydomingo@gmail.com)** 
 
 ---
 ## Tech Stack
